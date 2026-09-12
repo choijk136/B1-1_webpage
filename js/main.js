@@ -146,7 +146,7 @@ const validateField = (field) => {
   let message = "";
 
   if (!value) {
-    message = `${field.labels[0].textContent}을(를) 입력해 주세요.`;
+    message = `${field.labels[0].textContent}: 필수 입력 항목입니다.`;
   } else if (field.type === "email" && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)) {
     message = "올바른 이메일 형식으로 입력해 주세요.";
   }
