@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">노트북으로 금융공학을 공부하는 사람</title>
+  <desc id="desc">초록색 배경 위에 노트북과 금융 차트가 배치된 기하학적 일러스트</desc>
+  <rect width="800" height="600" fill="#d8f36a"/>
+  <circle cx="622" cy="118" r="72" fill="#ff5a36"/>
+  <path d="M0 476 190 330l166 128 176-214 268 240v116H0Z" fill="#171714" opacity=".1"/>
+  <path d="M527 252c0 71-56 128-125 128s-125-57-125-128 56-128 125-128 125 57 125 128Z" fill="#f4b89e"/>
+  <path d="M279 238c6-84 54-134 127-134 69 0 119 49 122 130-38-8-70-27-95-59-32 42-88 68-154 63Z" fill="#171714"/>
+  <path d="M209 594c8-147 79-227 193-227s185 80 193 227Z" fill="#ff5a36"/>
+  <path d="M247 405c39-27 91-40 155-40s116 13 155 40l-40 189H287Z" fill="#f5f3ee"/>
+  <rect x="230" y="409" width="344" height="191" rx="18" fill="#22221f"/>
+  <circle cx="402" cy="502" r="22" fill="#d8f36a"/>
+  <path d="m393 503 8 8 14-20" fill="none" stroke="#171714" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M86 92h154v106H86z" fill="#f5f3ee" stroke="#171714" stroke-width="8"/>
+  <path d="m106 169 35-32 27 18 48-52" fill="none" stroke="#ff5a36" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="141" cy="137" r="7" fill="#171714"/><circle cx="168" cy="155" r="7" fill="#171714"/><circle cx="216" cy="103" r="7" fill="#171714"/>
+</svg>
